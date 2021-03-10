@@ -1,5 +1,7 @@
 package CLASSES;
 
+//será utilizado nos próximos releases
+
 public class Movimento  {
 	
 	public void bemVindo()
